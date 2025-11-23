@@ -75,9 +75,9 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
 }
-labels[0] : {"texts" : ["치킨은 너무 맛있어"], "images" : ["https://i.namu.wiki/i/YVm0x8WHfLBtSyejD01_GTV1ITfWOJ-XODZzVTQPr386JsiBaz6Ucl1tKKxZmHiYStf_sXZBmK7AEXkEA18Tsg.webp"]}
-labels[1] : {"texts" : ["파스타는 사랑이야"],"images" : ["https://static.wtable.co.kr/image/production/service/recipe/1767/f55d5c26-330d-46e4-90cd-7579da839914.jpg?size=800x800"]}
-labels[2] : {"texts" : ["피자도 좋아해"],"images" : ["https://lh3.googleusercontent.com/pw/AP1GczPE_oJsHAyC9d8i4olH8plMQ6upVkt8HXUYy4_9Rlk6NengI4K9Jh8tuFTJAN5S-uMBvkcMR-ps_5yrJ6OJyat_4CaTbFczfmZ1iZ0eAkFuHpic6arCfr6V4ysx2mXbSVS059q6XV9zKWWIBXsiFGw1Ug=w1280-h1280-s-no-gm?authuser=0"]}
+labels[0] : {"texts" : ["치킨은 너무 맛있어"], "images" : ["https://i.namu.wiki/i/YVm0x8WHfLBtSyejD01_GTV1ITfWOJ-XODZzVTQPr386JsiBaz6Ucl1tKKxZmHiYStf_sXZBmK7AEXkEA18Tsg.webp"],"videos" : ["https://www.youtube.com/shorts/3H7jAAHgGY4"]}
+labels[1] : {"texts" : ["파스타는 사랑이야"],"images" : ["https://static.wtable.co.kr/image/production/service/recipe/1767/f55d5c26-330d-46e4-90cd-7579da839914.jpg?size=800x800"],"videos" : ["https://www.youtube.com/shorts/1ZKn_CaqX1A"]}
+labels[2] : {"texts" : ["피자도 좋아해"],"images" : ["https://lh3.googleusercontent.com/pw/AP1GczPE_oJsHAyC9d8i4olH8plMQ6upVkt8HXUYy4_9Rlk6NengI4K9Jh8tuFTJAN5S-uMBvkcMR-ps_5yrJ6OJyat_4CaTbFczfmZ1iZ0eAkFuHpic6arCfr6V4ysx2mXbSVS059q6XV9zKWWIBXsiFGw1Ug=w1280-h1280-s-no-gm?authuser=0"],"videos" : ["https://www.youtube.com/watch?v=InTPhrn_pmA"]}
 # ======================
 # 유틸
 # ======================
